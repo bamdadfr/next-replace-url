@@ -1,0 +1,49 @@
+{
+  "name": "next-replace-url",
+  "version": "0.0.0",
+  "description": "Replace URL parameters in Next.js without re-rendering",
+  "author": {
+    "name": "Bamdad Sabbagh",
+    "email": "hi@bamdad.fr",
+    "url": "https://bamdad.fr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bamdadsabbagh/next-replace-url.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "next",
+    "next.js",
+    "replace",
+    "url",
+    "route",
+    "parameter",
+    "parameters",
+    "param",
+    "params",
+    "render",
+    "re-render",
+    "rendering",
+    "re-rendering",
+    "query",
+    "string",
+    "querystring",
+    "query-string",
+    "history"
+  ],
+  "type": "module",
+  "main": "src/main.js",
+  "types": "src/main.d.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "package:reinstall": "rimraf node_modules && yarn",
+    "package:sort": "npx sort-package-json"
+  },
+  "devDependencies": {
+    "@bamdadsabbagh/eslint-config": "^2.0.21",
+    "react": "^18.0.0"
+  }
+}

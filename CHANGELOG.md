@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bamdadsabbagh/next-replace-url/compare/v1.0.1...v1.0.2) (2022-03-30)
+
+
+### Bug Fixes
+
+* Add license ([a21045f](https://github.com/bamdadsabbagh/next-replace-url/commit/a21045f8127ce3b85f2013a8ecba88e6a5efb383))
+
 ## [1.0.1](https://github.com/bamdadsabbagh/next-replace-url/compare/v1.0.0...v1.0.1) (2022-03-30)
 
 

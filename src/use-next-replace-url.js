@@ -1,5 +1,5 @@
 import {useEffect} from 'react';
-import {nextReplaceUrl} from './next-replace-url';
+import {nextReplaceUrl} from './next-replace-url.js';
 
 /**
  * React Hook for replacing URL parameter in Next.js without re-rendering

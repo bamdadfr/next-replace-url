@@ -1,6 +1,6 @@
 {
   "name": "next-replace-url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Replace URL parameters in Next.js without re-rendering",
   "author": {
     "name": "Bamdad Sabbagh",

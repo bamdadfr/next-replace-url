@@ -1,3 +1,6 @@
+![release](https://img.shields.io/github/v/release/bamdadsabbagh/next-replace-url)
+![license](https://img.shields.io/github/license/bamdadsabbagh/next-replace-url)
+
 Replace URL parameters in Next.js without re-rendering.
 
 ## 🚀 Getting Started

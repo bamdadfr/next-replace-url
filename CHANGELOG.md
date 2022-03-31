@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/bamdadsabbagh/next-replace-url/compare/v1.0.2...v1.0.3) (2022-03-31)
+
+
+### Performance Improvements
+
+* **NPM:** Add keyword `nextjs` ([a22ae40](https://github.com/bamdadsabbagh/next-replace-url/commit/a22ae40a01b685cf4ec03e0d333a3843c826eb2f))
+
 ## [1.0.2](https://github.com/bamdadsabbagh/next-replace-url/compare/v1.0.1...v1.0.2) (2022-03-30)
 
 

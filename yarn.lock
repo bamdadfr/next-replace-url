@@ -231,9 +231,9 @@
     to-fast-properties "^2.0.0"
 
 "@bamdadsabbagh/eslint-config@^2.0.21":
-  version "2.0.21"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-2.0.21.tgz#16fc10e7e3e71e8e43bcff929795725dc1c41b17"
-  integrity sha512-tSTV+zIHcea7su/HmNCRhVjBBTsvwZi0I64v4T4t2ByDO5B+3SMWsNU+xXSYBFrmt6Gwo8k8t44361PxKlNZUw==
+  version "2.0.23"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/eslint-config/-/eslint-config-2.0.23.tgz#6e822349abdc681304235f02f8d1efee0b127e34"
+  integrity sha512-ai0VP1kxdk/eAq6985OiOpo+YIvDsevTIQnhtzCVK8LPOgGQdVMPJzSon/Op4S6vXoCoF7tPdWnYqgyA7ik/Wg==
   dependencies:
     "@babel/core" "^7.15.0"
     "@babel/eslint-parser" "^7.15.0"

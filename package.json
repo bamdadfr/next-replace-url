@@ -5,11 +5,11 @@
   "author": {
     "name": "Bamdad Sabbagh",
     "email": "hi@bamdad.fr",
-    "url": "https://bamdad.fr"
+    "url": "https://www.bamdad.fr"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bamdadsabbagh/next-replace-url.git"
+    "url": "https://github.com/bamdadfr/next-replace-url.git"
   },
   "license": "MIT",
   "keywords": [
@@ -40,7 +40,7 @@
     "src"
   ],
   "scripts": {
-    "package:reinstall": "rimraf node_modules && yarn",
+    "package:reinstall": "rimraf node_modules && pnpm i",
     "package:sort": "npx sort-package-json"
   },
   "devDependencies": {
